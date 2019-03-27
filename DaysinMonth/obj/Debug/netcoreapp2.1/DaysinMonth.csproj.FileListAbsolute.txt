@@ -1,0 +1,14 @@
+c:\users\srsp 2\source\repos\DaysinMonth\DaysinMonth\bin\Debug\netcoreapp2.1\DaysinMonth.deps.json
+c:\users\srsp 2\source\repos\DaysinMonth\DaysinMonth\bin\Debug\netcoreapp2.1\DaysinMonth.runtimeconfig.json
+c:\users\srsp 2\source\repos\DaysinMonth\DaysinMonth\bin\Debug\netcoreapp2.1\DaysinMonth.runtimeconfig.dev.json
+c:\users\srsp 2\source\repos\DaysinMonth\DaysinMonth\bin\Debug\netcoreapp2.1\DaysinMonth.dll
+c:\users\srsp 2\source\repos\DaysinMonth\DaysinMonth\bin\Debug\netcoreapp2.1\DaysinMonth.pdb
+c:\users\srsp 2\source\repos\DaysinMonth\DaysinMonth\obj\Debug\netcoreapp2.1\DaysinMonth.csprojAssemblyReference.cache
+c:\users\srsp 2\source\repos\DaysinMonth\DaysinMonth\obj\Debug\netcoreapp2.1\DaysinMonth.csproj.CoreCompileInputs.cache
+c:\users\srsp 2\source\repos\DaysinMonth\DaysinMonth\obj\Debug\netcoreapp2.1\DaysinMonth.RazorAssemblyInfo.cache
+c:\users\srsp 2\source\repos\DaysinMonth\DaysinMonth\obj\Debug\netcoreapp2.1\DaysinMonth.RazorAssemblyInfo.cs
+c:\users\srsp 2\source\repos\DaysinMonth\DaysinMonth\obj\Debug\netcoreapp2.1\DaysinMonth.AssemblyInfoInputs.cache
+c:\users\srsp 2\source\repos\DaysinMonth\DaysinMonth\obj\Debug\netcoreapp2.1\DaysinMonth.AssemblyInfo.cs
+c:\users\srsp 2\source\repos\DaysinMonth\DaysinMonth\obj\Debug\netcoreapp2.1\DaysinMonth.RazorTargetAssemblyInfo.cache
+c:\users\srsp 2\source\repos\DaysinMonth\DaysinMonth\obj\Debug\netcoreapp2.1\DaysinMonth.dll
+c:\users\srsp 2\source\repos\DaysinMonth\DaysinMonth\obj\Debug\netcoreapp2.1\DaysinMonth.pdb
