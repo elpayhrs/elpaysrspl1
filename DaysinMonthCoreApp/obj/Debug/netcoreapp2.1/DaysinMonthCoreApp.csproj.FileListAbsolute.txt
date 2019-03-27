@@ -1,0 +1,14 @@
+c:\users\srsp 2\source\repos\DaysinMonthCoreApp\DaysinMonthCoreApp\bin\Debug\netcoreapp2.1\DaysinMonthCoreApp.deps.json
+c:\users\srsp 2\source\repos\DaysinMonthCoreApp\DaysinMonthCoreApp\bin\Debug\netcoreapp2.1\DaysinMonthCoreApp.runtimeconfig.json
+c:\users\srsp 2\source\repos\DaysinMonthCoreApp\DaysinMonthCoreApp\bin\Debug\netcoreapp2.1\DaysinMonthCoreApp.runtimeconfig.dev.json
+c:\users\srsp 2\source\repos\DaysinMonthCoreApp\DaysinMonthCoreApp\bin\Debug\netcoreapp2.1\DaysinMonthCoreApp.dll
+c:\users\srsp 2\source\repos\DaysinMonthCoreApp\DaysinMonthCoreApp\bin\Debug\netcoreapp2.1\DaysinMonthCoreApp.pdb
+c:\users\srsp 2\source\repos\DaysinMonthCoreApp\DaysinMonthCoreApp\obj\Debug\netcoreapp2.1\DaysinMonthCoreApp.csprojAssemblyReference.cache
+c:\users\srsp 2\source\repos\DaysinMonthCoreApp\DaysinMonthCoreApp\obj\Debug\netcoreapp2.1\DaysinMonthCoreApp.csproj.CoreCompileInputs.cache
+c:\users\srsp 2\source\repos\DaysinMonthCoreApp\DaysinMonthCoreApp\obj\Debug\netcoreapp2.1\DaysinMonthCoreApp.RazorAssemblyInfo.cache
+c:\users\srsp 2\source\repos\DaysinMonthCoreApp\DaysinMonthCoreApp\obj\Debug\netcoreapp2.1\DaysinMonthCoreApp.RazorAssemblyInfo.cs
+c:\users\srsp 2\source\repos\DaysinMonthCoreApp\DaysinMonthCoreApp\obj\Debug\netcoreapp2.1\DaysinMonthCoreApp.AssemblyInfoInputs.cache
+c:\users\srsp 2\source\repos\DaysinMonthCoreApp\DaysinMonthCoreApp\obj\Debug\netcoreapp2.1\DaysinMonthCoreApp.AssemblyInfo.cs
+c:\users\srsp 2\source\repos\DaysinMonthCoreApp\DaysinMonthCoreApp\obj\Debug\netcoreapp2.1\DaysinMonthCoreApp.RazorTargetAssemblyInfo.cache
+c:\users\srsp 2\source\repos\DaysinMonthCoreApp\DaysinMonthCoreApp\obj\Debug\netcoreapp2.1\DaysinMonthCoreApp.dll
+c:\users\srsp 2\source\repos\DaysinMonthCoreApp\DaysinMonthCoreApp\obj\Debug\netcoreapp2.1\DaysinMonthCoreApp.pdb
